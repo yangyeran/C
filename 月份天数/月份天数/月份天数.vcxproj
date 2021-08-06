@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{F366F9CB-78BF-442B-B684-8B85B05A80E8}</ProjectGuid>
-    <RootNamespace>打印菱形</RootNamespace>
+    <ProjectGuid>{FBB73861-E0F6-434A-A8E8-3D539CC372FE}</ProjectGuid>
+    <RootNamespace>月份天数</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
